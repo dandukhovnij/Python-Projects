@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis — Python (Google Colab)
+# E-Commerce Sales Analysis - Python (Google Colab)
 
 This project analyzes global sales data for a company operating both online and offline.
 
@@ -10,11 +10,11 @@ The entire analysis is performed in Google Colab using Python, with an emphasis 
 
 Given a dataset that describes product sales for a company operating globally through brick-and-mortar stores and an online shop. The dataset has three CSV files:
 
-- events.csv — transactional events (orders/sales) spanning multiple years.
+- events.csv - transactional events (orders/sales) spanning multiple years.
 
-- products.csv — product catalog (categories, product codes, attributes).
+- products.csv - product catalog (categories, product codes, attributes).
 
-- countries.csv — country and region reference with codes.
+- countries.csv - country and region reference with codes.
 
 ### High-level goals:
 
